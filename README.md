@@ -12,10 +12,10 @@
 
 # Connect with me:
 <span>
- <a href="https://www.linkedin.com/in/ahsan-hafeez-satti-592854196/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="60" height="60"></a>
+ <a href="https://www.linkedin.com/in/ahsan-hafeez-satti-592854196/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="60" height="60" target="_blank"></a>
 </span>
 <span>
-<img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" width="100" height="70">
+ <a href="mailto:someone@example.com"><img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" width="100" height="70" target="_blank"></a>
 </span>
 
 
@@ -33,7 +33,7 @@
 
 # Languages and Tools:
 <span>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzk6q-mDp6pEL9TNU40TztZcfu0-XpVYOiPKvhbn1333hRoCr8-J7S0aZnXXunuZl6XYw&usqp=CAU" width="60" height="60" target="_blank"> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzk6q-mDp6pEL9TNU40TztZcfu0-XpVYOiPKvhbn1333hRoCr8-J7S0aZnXXunuZl6XYw&usqp=CAU" width="60" height="60"> 
 </span>
 <span>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="60" height="60">
