@@ -12,10 +12,10 @@
 
 # Connect with me:
 <span>
- <a href="https://www.linkedin.com/in/ahsan-hafeez-satti-592854196/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="60" height="60" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/ahsan-hafeez-satti-592854196/" target="_blank"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="60" height="60"></a>
 </span>
 <span>
- <a href="mailto:someone@example.com"><img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" width="100" height="70" target="_blank"></a>
+ <a href="mailto:someone@example.com" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" width="107" height="70"></a>
 </span>
 
 
