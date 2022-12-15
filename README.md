@@ -33,7 +33,7 @@
 
 # Languages and Tools:
 <span>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzk6q-mDp6pEL9TNU40TztZcfu0-XpVYOiPKvhbn1333hRoCr8-J7S0aZnXXunuZl6XYw&usqp=CAU" width="60" height="60"> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzk6q-mDp6pEL9TNU40TztZcfu0-XpVYOiPKvhbn1333hRoCr8-J7S0aZnXXunuZl6XYw&usqp=CAU" width="60" height="60" target="_blank"> 
 </span>
 <span>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="60" height="60">
