@@ -15,7 +15,7 @@
  <a href="https://www.linkedin.com/in/ahsan-hafeez-satti-592854196/" target="_blank"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="60" height="60"></a>
 </span>
 <span>
- <a href="mailto:ahsansatti402@gmail.com" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" width="107" height="70"></a>
+ <a href="mailto:ahsansatti402@gmail.com" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" width="120" height="70"></a>
 </span>
 
 
@@ -31,25 +31,3 @@
 
 
 
-# Languages and Tools:
-<span>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzk6q-mDp6pEL9TNU40TztZcfu0-XpVYOiPKvhbn1333hRoCr8-J7S0aZnXXunuZl6XYw&usqp=CAU" width="60" height="60"> 
-</span>
-<span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="60" height="60">
-</span>
-<span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="50" height="64">
-</span>
-<span>
-<img src="https://2ality.com/2011/10/logo-js/js.jpg" width="60" height="60">
-</span>
-<span>
-<img src="https://banner2.cleanpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg" width="60" height="60">
-</span>
-<span>
-<img src="https://dwglogo.com/wp-content/uploads/2017/09/1460px-React_logo.png" width="100" height="85">
-</span>
-<span>
-<img src="https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png" width="120" height="80">
-</span>
