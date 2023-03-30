@@ -4,7 +4,7 @@
 
 # About Me
 - 🔭 I’m currently working on my MERN STACK Projects both Web and App.
-- 🌱 I’m currently learning Web 3.o, BlockChain and Aws.
+- 🌱 I’m currently learning Web 3.o and BlockChain
 - 👯 I’m looking to work in a MERN STACK based and BlockChain Based Companies.
 - 💬 Ask me about MERN STACK or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
