@@ -62,9 +62,15 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AhsanHafeez2525&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AhsanHafeez2525&theme=flat&no-frame=true&no-bg=false&margin-w=4)
 
+
+## Snake eating my contribution graph
+
+![snake gif](https://github.com/AhsanHafeez2525/AhsanHafeez2525/blob/output/github-contribution-grid-snake.gif)
 ---
 
 
